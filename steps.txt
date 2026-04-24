@@ -1,0 +1,6 @@
+1. Created EC2 instance
+2. Installed Apache
+3. Created AMI
+4. Created Load Balancer
+5. Created Auto Scaling Group
+6. Tested using stress command
